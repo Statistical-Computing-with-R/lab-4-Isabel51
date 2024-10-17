@@ -1,9 +1,13 @@
 ---
 title: "Lab 4: Childcare Costs in California"
-author: "Your name here!"
+author: "Isabel Villafuerte"
 format: html
 editor: source
 embed-resources: true
+code-tools: true
+code-fold: true
+echo: true
+toc: true
 ---
 
 ## The Data
